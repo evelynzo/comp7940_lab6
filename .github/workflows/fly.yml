@@ -3,7 +3,7 @@ name: Fly Deploy
 on:
   push:
     branches:
-      - main # change to maigitgi
+      - main # change to maigit
 jobs:
   deploy:
     name: Deploy app
